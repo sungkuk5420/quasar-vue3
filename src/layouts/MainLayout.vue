@@ -43,6 +43,18 @@ const linksList = [
     icon: 'school',
     to: '/typography',
   },
+  {
+    title: 'Colors',
+    caption: 'quasar.dev',
+    icon: 'school',
+    to: '/colors',
+  },
+  {
+    title: 'Spacing',
+    caption: 'quasar.dev',
+    icon: 'school',
+    to: '/spacing',
+  },
 ];
 </script>
 
